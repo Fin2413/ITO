@@ -1,0 +1,131 @@
+@media (max-width: 576px) {
+
+    .nav-xs {
+        display: none;
+    }
+
+    .navbar-brand {
+        margin-right: 50px;
+    }
+
+    .btn-group {
+        margin-left: 40px;
+        margin-right: -49px;
+        justify-content: end;
+        padding-right: 0;
+    }
+
+    .section-row {
+        margin-top: 720px;
+    }
+
+    .section-img {
+        display: none;
+    }
+
+    .section-title {
+        margin-left: -80px;
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+
+    .section-list {
+        margin-top: 20px;
+        margin-left: -70px;
+        font-size: 16px;
+    }
+
+    .section-br {
+        display: none;
+    }
+
+    .btn-section {
+        margin-left: -50px;
+        margin-top: 20px;
+    }
+
+    .btn-section-one {
+        margin-left: -90px;
+        margin-top: 20px;
+    }
+
+    .container-lider {
+        margin-top: -100px;
+    }
+
+    .row-li {
+        margin: 0 auto;
+    }
+
+    .img-fluid-li {
+        width: 50%;
+    }
+
+    .best-img {
+        display: none;
+    }
+
+    .img-title {
+        width: 150px;
+        margin-left: 100px;
+    }
+
+    .best-ul {
+        width: 290px;
+    }
+
+    .img-title-a {
+        margin-left: -10px;
+    }
+
+    .contacts{
+        background: none;
+    }
+
+    .contacts-address {
+        margin-left: 89px;
+        margin-top: 5px;
+    }
+
+    .contacts-address-2 {
+        font-size: 18px;
+    }
+
+    .contacts-time{
+        font-size: 25px;
+        margin-left: -40px;
+    }
+
+    .contacts-time-1{
+        margin-left: -50px;
+        margin-right: 50px;
+        margin-bottom: 20px;
+    }
+
+    .contacts-phone{
+        padding-left: 50px;
+        padding-right: 50px;
+        margin-top: -5px;
+    }
+
+    .contacts-form{
+        margin-top: -280px;
+        margin-bottom: 20px;
+    }
+
+    .footer-item-a{
+        padding-right: 50px;
+        margin-bottom: 20px;
+    }
+
+    .footer-item-b{
+        margin-left: 50px;
+        padding-right: 80px;
+        margin-bottom: 20px;
+    }
+
+    .footer-item-c{
+        margin-left: -10px;
+    }
+
+}
