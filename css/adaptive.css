@@ -943,6 +943,10 @@
         padding: 0;
     }
 
+    .row-kz{
+        margin-top: -250px;
+    }
+
     .nav-xs {
         display: none;
     }
@@ -1393,6 +1397,15 @@
         width: 500px;
         margin-left: -350px;
         margin-bottom: 10px;
+    }
+
+    .tel-kz{
+        margin-top: 150px;
+    }
+
+    .form-kz{
+        margin-top: -220px;
+        margin-left: 550px;
     }
 
 }
